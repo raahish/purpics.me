@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+## PurPics Campus Ambassador Program
 
-You can use the [editor on GitHub](https://github.com/raahishk/purpics.me/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Company Overview
+Founded on the idea “pictures with purpose,” [PurPics](purpics.com) turns social media likes into charitable donations. Since launching at the University of Virginia in 2017, PurPics has expanded to 40+ campuses across the US. Past and current clients include Lime Scooters, Clif Bar & Co., Awake Chocolate, and more. We’re excited you’re here because our company is hiring PurPics Campus Ambassadors today!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+In this role, you will be taught our internal marketing processes, how to prospect student organizations who value philanthropy, and given the ability to be creative by developing and owning your own outreach strategies. Often times, PurPics ambassadors use their experience and relationships built during their tenure for future internships and full time jobs.
 
-### Markdown
+### Successful PurPics Ambassadors…
+- Know what’s up on campus
+- Love meeting new people
+- Want to make a difference
+- Are curious about the #startuplife
+- Eager to make some extra $$$
+- Are accountable, strong communicators who are willing to roll up their sleeves and get sh*t done. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Roles & Responsibilities 
+- Identify highly-engaged student organizations on campus that frequently fundraise
+- Establish relationships with leaders of target student organizations 
+- Work with PurPics team lead to onboard student leaders to PurPics platform
 
-```markdown
-Syntax highlighted code block
+### What’s in it for you? 
+- Cash money (jk, just Venmo)
+- ~Legit resume experience~
+- Mentorship opportunities
+- Feel good and help raise thousands of dollars raised for charitable and social causes
+- Relationships with brands you hope to work with/for in the future
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/raahishk/purpics.me/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Spring 2019 Campus Ambassador positions are open at the following schools only:
+- University of California LA
+- Arizona State University
+- Southern Methodist University
+- University of Michigan
+- Cornell University 
+- University of Alabama
+- University of Texas at Austin
+- University of Colorado Boulder
+- University of Florida

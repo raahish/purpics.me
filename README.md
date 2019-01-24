@@ -1,4 +1,4 @@
-## PurPics Campus Ambassador Program
+# PurPics Campus Ambassador Program
 
 ### Company Overview
 Founded on the idea “pictures with purpose,” [PurPics](purpics.com) turns social media likes into charitable donations. Since launching at the University of Virginia in 2017, PurPics has expanded to 40+ campuses across the US. Past and current clients include Lime Scooters, Clif Bar & Co., Awake Chocolate, and more. We’re excited you’re here because our company is hiring PurPics Campus Ambassadors today!
